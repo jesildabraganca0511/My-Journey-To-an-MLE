@@ -1,2 +1,0 @@
-Beginning my journey
-Day 0- Initialize a new git repo
