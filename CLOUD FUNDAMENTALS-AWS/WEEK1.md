@@ -18,3 +18,8 @@ AWS SDK: Tools that allow developers to interact with AWS services using program
 Access Keys: Credentials used to access AWS services programmatically through the CLI or SDK.
 
 Audit: Tools like IAM Credential Reports and IAM Access Advisor help monitor and review user permissions and security practices.
+
+
+Material I use:
+1) AWS Certified Solutions Architect Associate
+- By Stéphane Maarek
