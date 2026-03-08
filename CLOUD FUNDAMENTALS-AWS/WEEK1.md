@@ -20,6 +20,12 @@ Access Keys: Credentials used to access AWS services programmatically through th
 Audit: Tools like IAM Credential Reports and IAM Access Advisor help monitor and review user permissions and security practices.
 
 
+WEEK 1 DELIVERABLES DONE:
+    -Create your AWS Free Tier account — set a billing alert at $5 immediately
+    -Install and configure the AWS CLI with your IAM user credentials
+    -Create 3 IAM users: one admin, one S3-read-only, one EC2-read-only. Test each via CLI
+    -Write a custom IAM policy JSON by hand, attach it, test it
+
 Material I use:
 1) AWS Certified Solutions Architect Associate
 - By Stéphane Maarek
